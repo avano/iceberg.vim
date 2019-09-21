@@ -62,7 +62,7 @@ hi! PmenuThumb ctermbg=green guibg=#c6c8d1
 hi! PreProc ctermfg=150 guifg=#b4be82
 hi! Question ctermfg=150 guifg=#b4be82
 hi! QuickFixLine ctermbg=NONE ctermfg=252 guibg=#272c42 guifg=#c6c8d1
-hi! Search ctermbg=NONE ctermfg=green guibg=#e4aa80 guifg=#392313
+hi! Search ctermbg=white ctermfg=black guibg=#e4aa80 guifg=#392313
 hi! SignColumn ctermbg=NONE ctermfg=239 guibg=#1e2132 guifg=#444b71
 hi! Special ctermfg=150 guifg=#b4be82
 hi! SpellBad ctermbg=NONE ctermfg=252 gui=undercurl guisp=#e27878
